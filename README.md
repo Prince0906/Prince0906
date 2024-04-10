@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prince Sahoo and I'm a Competitive Coder From Newton School of Technology</h2>
+<h2 align="left">Hi 👋! My name is Prince Sahoo and I'm a Competitive Coder and Web Developer From Newton School of Technology</h2>
 
 ###
 
